@@ -152,13 +152,21 @@
                 "file": "프로그래머스.md"
               }
             }
+          },
+          {
+            "id": "c1f9dacb6ccc9f08",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
