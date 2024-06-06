@@ -1,37 +1,43 @@
 {
   "main": {
-    "id": "cd9ead5c085fe2cf",
+    "id": "664715f9dae50005",
     "type": "split",
     "children": [
       {
-        "id": "bd0fbc5f842343da",
+        "id": "eb1864dac9ef1ae6",
         "type": "tabs",
         "children": [
           {
-            "id": "40d6ed518e8ac05c",
+            "id": "d52fd976f73c31a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-14.md",
+                "file": "프로그래머스.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "9d067410883762f8",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b7ca24285fb2154c",
+            "id": "09c654dbe083ea9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-14.md",
+                "file": "SDKMAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b82faea78919d099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그래머스.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,15 +49,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "80729cf293f0508c",
+    "id": "bb548137bf03c55d",
     "type": "split",
     "children": [
       {
-        "id": "522957c61b3a9ec4",
+        "id": "9c5e6b40d3d1c209",
         "type": "tabs",
         "children": [
           {
-            "id": "b37a99fe46d12524",
+            "id": "11d61643ad1cd598",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +67,7 @@
             }
           },
           {
-            "id": "8bc4b1d2b4521e3f",
+            "id": "3369c746b3f0f7ef",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,7 +82,7 @@
             }
           },
           {
-            "id": "1277a59e66173a34",
+            "id": "2228db40bb62ae90",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,23 +93,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "7718b6c203d8ef23",
+    "id": "37b9a991fccf88cf",
     "type": "split",
     "children": [
       {
-        "id": "76ad2ceb5fc5987a",
+        "id": "a685be01ccb7511d",
         "type": "tabs",
         "children": [
           {
-            "id": "e4086adfbfb53c92",
+            "id": "1be50de924d3e567",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-14.md",
+                "file": "프로그래머스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,19 +121,19 @@
             }
           },
           {
-            "id": "1c646e4f328cf9f9",
+            "id": "81eda6e7269543e4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-14.md",
+                "file": "프로그래머스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "67a687d8651d44bc",
+            "id": "7c71cc985cc39d36",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,12 +144,12 @@
             }
           },
           {
-            "id": "a0524beb8e27c2c6",
+            "id": "7bd642f9e0c7db09",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-14.md"
+                "file": "프로그래머스.md"
               }
             }
           }
@@ -151,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 266.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -164,9 +170,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b7ca24285fb2154c",
+  "active": "d52fd976f73c31a0",
   "lastOpenFiles": [
-    "2024-05-14.md",
-    "Welcome.md"
+    "SDKMAN.md",
+    "프로그래머스.md",
+    "이미지/Pasted image 20240514183225.png",
+    "이미지/Pasted image 20240514183041.png",
+    "이미지/Pasted image 20240514182004.png",
+    "이미지",
+    "이미지/Pasted image 20240514182256.png",
+    "이미지/Pasted image 20240514182455.png"
   ]
 }

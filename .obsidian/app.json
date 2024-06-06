@@ -1,1 +1,6 @@
-{}
+{
+  "vimMode": true,
+  "autoConvertHtml": true,
+  "showLineNumber": true,
+  "spellcheck": false
+}
